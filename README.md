@@ -2,7 +2,7 @@
 
 ## 🌐 View Site: [React Mastermind](https://react-app-mastermind.netlify.app/) 
 
-## View Back-End Code: https://github.com/imckain/react-mastermind-backend
+## View Back-End Code: https://github.com/robindano/mastermind-express
 ---
 
 The classic Mastermind game built in React!
